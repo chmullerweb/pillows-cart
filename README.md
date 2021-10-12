@@ -1,5 +1,9 @@
 # pillows-cart
 
+## Livrable au 12/10/2021
+Créer une simple page en VueJs, responsive, avec une incrémentation dynamique : changement d'image et de couleur de fond. 
+Le test a été réalisé avec en plus le framework NuxtJs.
+
 ## Build Setup
 
 ```bash
